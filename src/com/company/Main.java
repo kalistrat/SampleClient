@@ -18,7 +18,7 @@ public class Main {
             //Message Example: add/semenov/state/1234
 
 
-            String InMessageValue = "a/b/c/d/";
+            String InMessageValue = "delete/k/sensor/1/";
 
             s.getOutputStream().write(InMessageValue.getBytes());
 
